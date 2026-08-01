@@ -154,14 +154,6 @@ The application will launch in your default web browser at `http://localhost:850
 
 ---
 
-## Screenshots
-
-*(Placeholder for Screenshots)*
-
-> **Tip:** Add screenshots here showing the file upload interface, the generated career report, and the retrieved context expander to make the portfolio pop!
-
----
-
 ## Future Enhancements
 
 The following features are planned for future iterations of ResumeIQ AI:
@@ -187,3 +179,5 @@ Building this project provided deep, hands-on experience with:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+Developed by Kothakota Dileep Kumar.
