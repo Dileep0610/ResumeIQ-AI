@@ -98,7 +98,6 @@ if st.button("🚀 Build Career Coach RAG Index", type="primary"):
             print(f"Document Creation: {timings['Document Creation']:.2f} sec")
             print(f"Chunking: {timings['Chunking']:.2f} sec")
             print(f"Embedding Model Loading: {timings['Embedding Model Loading']:.2f} sec")
-            print(f"Embedding Generation: {timings['Embedding Generation']:.2f} sec")
             print(f"Vector DB Creation: {timings['Vector DB Creation']:.2f} sec")
             print(f"Total Time: {timings['Total Build Time'] + t_resume_load + t_jd_load:.2f} sec")
             print("------------------------------\n")
